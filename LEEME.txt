@@ -1,0 +1,21 @@
+## Nombre
+Sistema de votación
+
+## Descripción
+Este proyecto se basa en un formulario de votación donde se ingresan datos y los guarda.
+
+## Instalación
+tener descargado xampp (version 3.3.0) para que funcione PHP.
+en la base de datos instale BDeaver (version23.0.3) para la creacion de las tablas en mysql.
+
+## Uso
+al ejecutar el proyecto, recuerde activar el apache y mysql en xampp, luego al abrir el navegador escribir "localhost/prueba_ingreso",
+al ingresar datos recuerde que solo puede ingresar un rut valido por voto y este se guardara por ende debe ocupar otro rut valido para volver a votar.
+
+## Hoja de ruta
+Este proyecto es un inicio en mi camino como desarrolador, en un futuro pretendo actualizar el commit para continuar con este proyecto y mejorarlo.
+
+## Agradecimientos
+agradicimientos a  empresa desis x permitirme crear un proyecto y asi mejorar mi formación como desarrollador.
+
+
